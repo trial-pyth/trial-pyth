@@ -16,7 +16,7 @@ I like to be around people who develop great products where I can learn somethin
 A map application using leaflet tile layer and Mapbox geocoding API for search. <br/>
 Tools Used: React JS, Tailwind CSS, Leaflet, Mapbox
 
-<img src="https://raw.githubusercontent.com/trial-pyth/Travel-App-React/master/img/info-card.PNG" alt="react-map" height=300 width=450 />
+<img src="https://raw.githubusercontent.com/trial-pyth/Travel-App-React/master/img/info-card.PNG" alt="react-map" height=300 width=500 />
 
 ## [Flight Dashboard](https://github.com/trial-pyth/Flight-Manager-Dashboard)
 
@@ -24,7 +24,7 @@ Dashboard to read, add and delete flight schedules implementing REST API using J
 Tools Used: React JS, SCSS
 
 
-<img src="https://raw.githubusercontent.com/trial-pyth/Flight-Manager-Dashboard/master/img/widget.gif" alt="react-map" height=300 width=450 />
+<img src="https://raw.githubusercontent.com/trial-pyth/Flight-Manager-Dashboard/master/img/widget.gif" alt="react-map" height=300 width=500 />
 
 
 ## [Redux Library Account](https://github.com/trial-pyth/Redux-Library-Account-JWT)
@@ -32,7 +32,7 @@ Tools Used: React JS, SCSS
 Library account with login and signup features, utlizing redux toolkit to add, rate and delete books read <br/>
 Tools Used: React JS, Bootsrap, MongoDB , Redux Toolkit, JWT
 
-<img src="https://raw.githubusercontent.com/trial-pyth/Redux-Library-Account-JWT/master/img/add-delete.gif" alt="react-map" height=300 width=450 />
+<img src="https://raw.githubusercontent.com/trial-pyth/Redux-Library-Account-JWT/master/img/add-delete.gif" alt="react-map" height=300 width=500 />
 
 ### 🖊️ [View more](https://github.com/trial-pyth?tab=repositories)
 
