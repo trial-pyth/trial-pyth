@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello 👋🏻
-
 ## I'm Supreeth, a junior **Frontend Developer**. I like to build products that are challenging and help people with their services
 
 I like to be around people who develop great products where I can learn something new.
