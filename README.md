@@ -25,18 +25,7 @@ I like to be around people who develop great products where I can learn somethin
 
 ---
 
-<img src="img/html.webp" width=50 height=50  >
-<img src="img/css.webp" width=50 height=50  >
-<img src="img/js.png" width=50 height=50  >
-<img src="img/react.png" width=80 >
-<img src="img/redux.png" width=80 >
-<img src="img/tailwindcss.jpg" width=80 > 
-<img src="img/bootstrap.jpg" width=80 >
-<img src="img/mongodb.png" width=80 >
-<img src="img/node.png" width=80>
-<img src="img/python.png" width=80>
-<img src="img/matlab.jfif" width=80>
-
+<img src="img/html.webp" width=50 height=50  ><img src="img/css.webp" width=50 height=50  ><img src="img/js.png" width=50 height=50  ><img src="img/react.png" width=80 ><img src="img/redux.png" width=80 ><img src="img/tailwindcss.jpg" width=80 > <img src="img/bootstrap.jpg" width=80 ><img src="img/mongodb.png" width=80 ><img src="img/node.png" width=80><img src="img/python.png" width=80><img src="img/matlab.jfif" width=80>
 ---
 
 ### Works
